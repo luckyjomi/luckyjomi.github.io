@@ -17,8 +17,7 @@ favicon: favicon.ico
 
 repository: luckyjomi/luckyjomi.github.io
 github_url: https://github.com/luckyjomi
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+root: luckyjomi.github.io
 
 ## Gem
 plugins:
