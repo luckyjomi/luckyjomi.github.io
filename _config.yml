@@ -219,17 +219,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: jomi
+    username: luckyjomi
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: jomi
+    owner: luckyjomi
     repo: blog-comments
     oauth:
         client_id: d998a276062477b1c040
         client_secret: 07c11b1ea12c8ec9517297d8c5692a43ecc94130
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: jomi
+    owner: luckyjomi
     repo: blog-comments
     clientID: d998a276062477b1c040
     clientSecret: 07c11b1ea12c8ec9517297d8c5692a43ecc94130
