@@ -219,19 +219,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: http://www.javaai.club/
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: jomi
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: d998a276062477b1c040
+        client_secret: 07c11b1ea12c8ec9517297d8c5692a43ecc94130
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: jomi
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: d998a276062477b1c040
+    clientSecret: 07c11b1ea12c8ec9517297d8c5692a43ecc94130
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
