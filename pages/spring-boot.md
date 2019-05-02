@@ -10,3 +10,4 @@ keywords: Spring Boot 教程,Spring Boot 示例,Spring Boot 学习,Spring Boot �
 ---
 
 {% include spring-boot.html %}
+{% include snack.html %}
