@@ -125,5 +125,5 @@ DDOS攻击我们也是遇到了很多次，确实也没有比较好办法，最�
 -------------
 
 **作者：廖权名**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**
+**出处：[www.ityouknow.com](http://www.javaai.club)**
 **版权归作者所有，转载请注明出处** 

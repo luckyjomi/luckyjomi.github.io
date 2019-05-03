@@ -130,5 +130,5 @@ tags: [arch]
 -------------
 
 **作者：廖权名**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**      
+**出处：[www.ityouknow.com](http://www.javaai.club)**      
 **版权归作者所有，转载请注明出处** 

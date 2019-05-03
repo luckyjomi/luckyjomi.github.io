@@ -12,7 +12,7 @@ no-post-nav: true
 
 ## 博客
 
-- [廖权名](http://www.ityouknow.com)
+- [廖权名](http://www.javaai.club)
 
 - [粉丝日志](http://blog.fens.me/series-hadoop-family/)
 

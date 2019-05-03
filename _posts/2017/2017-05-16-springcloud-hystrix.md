@@ -126,6 +126,6 @@ public interface HelloRemote {
 
 -------------
 **作者：廖权名**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/16/springcloud-hystrix.html)**      
+**出处：[http://www.javaai.club/](http://www.javaai.club/springcloud/2017/05/16/springcloud-hystrix.html)**      
 **版权归作者所有，转载请注明出处** 
 
