@@ -167,7 +167,10 @@ labels:
     href: /python.html
     label: Python  
     target: _blank
-
+  -
+    href: /snack.html
+    label: snack
+    target: _blank
 
 # selected articles
 classes:
