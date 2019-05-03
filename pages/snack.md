@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Spring Boot 系列文章
-titlebar: spring-boot
+title: snack
+titlebar: snack
 subtitle: 
-menu: spring-boot
+menu: snack
 css: ['blog-page.css']
-permalink: /spring-boot
+permalink: /snack
 keywords: Spring Boot 教程,Spring Boot 示例,Spring Boot 学习,Spring Boot 资源,Spring Boot 2.0
 ---
 
