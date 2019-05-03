@@ -1,4 +1,5 @@
 $(document).ready(function () {
+
     var GameArray;
     var WIDTH = 80;//地图宽度
     var HEIGHT = 35;
@@ -35,7 +36,7 @@ $(document).ready(function () {
             GameArray[y] = GameArray_line;
         }
     }
-
+    //用于绘制游戏界面
     function DrawTable() {
         var str = "";
         for (var y = 0; y <= HEIGHT; y++) {
@@ -51,7 +52,7 @@ $(document).ready(function () {
         $("table").html(str);
     }
 
-
+    //绘制蛇
     function DrawSnake() {
         $(".Snake").removeClass("Snake").addClass("View");
         $(".SnakeHead").removeClass("SnakeHead").addClass("View");
@@ -78,7 +79,7 @@ $(document).ready(function () {
 
 
         $(document).keydown(function (e) {
-
+            e.preventDefault();
             if (e.keyCode == 40 && Dir != 1) {
                 Dir = 3;
             }
@@ -150,7 +151,7 @@ $(document).ready(function () {
         }
 
     }
-
+    //用于生成食物
     function DrawFoods() {
         var min = 1;
 
@@ -171,7 +172,7 @@ $(document).ready(function () {
     DrawTable();
     DrawFoods();
     DrawSnake();
-
+    //一直执行
     var time = setInterval(ChangeSnake, 800 / Speed);
     $("button").click(function () {
         if (Pause==0) {
